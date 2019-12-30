@@ -1,0 +1,19 @@
+.navbar{
+  width:100%;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #857adc;
+    border-color: #9ccc65;
+}
+
+.btn-outline-success{
+  background-color: #42a5f5;
+  color:#fff;
+  border-color: #9ccc65;
+}
+
+
+/**
+sidebar
+**/
